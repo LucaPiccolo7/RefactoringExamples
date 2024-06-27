@@ -1,0 +1,3 @@
+[submodule "OriginalProblems/GildedRose-Refactoring-Kata"]
+	path = OriginalProblems/GildedRose-Refactoring-Kata
+	url = https://github.com/emilybache/GildedRose-Refactoring-Kata.git
